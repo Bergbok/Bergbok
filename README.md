@@ -1,4 +1,10 @@
-### Hi there 👋
+#### computer user
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
+ <img alt="YOUR-ALT-TEXT" src="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
+</picture>
 
 <!--
 **Bergbok/Bergbok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
