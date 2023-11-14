@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
  <source media="(prefers-color-scheme: light)" srcset="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
- <img alt="YOUR-ALT-TEXT" src="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
+ <img alt="( ͡° ͜ʖ ͡°)" src="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
 </picture>
 
 <!--
