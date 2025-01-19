@@ -1,22 +1,11 @@
 #### computer user
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
- <img alt="( ͡° ͜ʖ ͡°)" src="https://cdn.7tv.app/emote/629c86dc3e330c867f834eba/4x.webp">
-</picture>
+[dev@bergbok.party](mailto:dev@bergbok.party)
 
-<!--
-**Bergbok/Bergbok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src='https://github.com/user-attachments/assets/4ed12ac1-1b8b-4ade-ba10-64fe43a3e694' alt='WideSpoingusAwkward'>
+<img src='https://github.com/user-attachments/assets/fed1380a-9e28-4390-82b6-9d69ae7b2644' alt=')))'>
+<a href='https://www.twitch.tv/greatsphynx'>
+  <img src='https://github.com/user-attachments/assets/bf1e7c6e-4129-4f2a-b7fd-448190c91635' alt='gongo'>
+</a>
+<img src='https://github.com/user-attachments/assets/91aac606-9ae0-4c02-8860-e60b7ebed3da' alt='ouh'>
+<img src='https://github.com/user-attachments/assets/f62e7910-06fd-4a4d-89cc-6550447a4a07' alt='plunk'>
