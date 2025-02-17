@@ -48,10 +48,12 @@
 
 <p align='center'>
 	<picture>
-		<img src='https://github.com/user-attachments/assets/06d61daf-7611-4a10-81dc-562676d03b81' width='120' alt='Beefbrain Shield Pro badge'>
+		<img src='https://github.com/user-attachments/assets/dac53f3d-9fa2-48cc-ab3d-632f6c027287' width='120' alt='Beefbrain Shield Pro badge'>
 	</picture>
 </p>
 
 <p align='right'>
+	<a href='https://github.com/Bergbok.gpg'>gpg pubkey</a>
+ 	<br>
 	<a href='mailto:dev@bergbok.party'>dev@bergbok.party</a>
 </p>
