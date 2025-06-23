@@ -54,6 +54,8 @@
 
 <p align='right'>
 	<a href='https://github.com/Bergbok.gpg'>gpg pubkey</a>
+	<br>
+	<a href='https://github.com/Bergbok.keys'>ssh pubkeys</a>
  	<br>
 	<a href='mailto:dev@bergbok.party'>dev@bergbok.party</a>
 </p>
